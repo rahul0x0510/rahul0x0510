@@ -2,6 +2,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loNWUyZWI4ZWNpaWQ1N2p1ZDZqaGo1cWJqNnkzMzd0Nmp6MHBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yyIrL4JczqfmFRHCl/giphy.gif"  />
+
+###
+
 <p align="left">I'm a cybersecurity professional with over a year of hands-on experience in offensive and defensive security, currently pursuing a Master's in Cybersecurity at RIT.<br><br>🛠️ Skilled in threat detection, malware analysis, cloud security, and security automation — with experience across tools like SIEMs, IDS/IPS, and scripting in Python and Bash<br><br>📜 Certified in eJPT, CEH, and Cisco DevNet Associate, with CompTIA Security+ in progress<br><br>🧪 Gained practical experience through research-driven labs focused on real-world threats, network monitoring, and secure DevSecOps workflows<br><br>📚 Continuously growing through CTFs, threat research, lab building, and hands-on experimentation in both offensive and defensive domains</p>
 
 ###
@@ -44,11 +50,6 @@
   <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img align="right" height="170" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loNWUyZWI4ZWNpaWQ1N2p1ZDZqaGo1cWJqNnkzMzd0Nmp6MHBnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6yyIrL4JczqfmFRHCl/giphy.gif"  />
 
 ###
 
